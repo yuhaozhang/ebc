@@ -1,6 +1,10 @@
 Ensemble Biclustering for Classification
 ==============
 
+####Note
+
+This is a forked version of EBC python implementation. For the final release please refer to [this repo](https://github.com/blpercha/ebc).
+
 A python implementation of the Ensemble Biclustering for Classification (EBC) algorithm. Although having "biclustering" in its name, EBC is a co-clustering algorithm that allows you to perform co-clustering on very large sparse N-dimensional matrix. For details and examples of using EBC please reference [this paper](http://www.ncbi.nlm.nih.gov/pubmed/26219079).
 
 ##Files
